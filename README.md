@@ -1,7 +1,5 @@
 # Challenge-1: Predictive Sales Modeling
 
-=====================================
-
 ## Project Description
 
 The Challenge-1 project is a predictive sales modeling tool built using Python and various machine learning libraries. The project aims to analyze sales data from different products and provide predicted sales figures. The project uses historical sales data from two products: soap nuts and wool balls.
