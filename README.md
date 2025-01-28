@@ -1,8 +1,8 @@
-# Challenge-1: Predictive Sales Modeling
+# Dynamic Pricing Optimization using Deep Reinforcement Learning
 
 ## Project Description
 
-The Challenge-1 project is a predictive sales modeling tool built using Python and various machine learning libraries. The project aims to analyze sales data from different products and provide predicted sales figures. The project uses historical sales data from two products: soap nuts and wool balls.
+The Dynamic Pricing Optimization using Deep Reinforcement Learning: Predictive Sales Modeling project is a predictive sales modeling tool built using Python and various machine learning libraries. The project aims to analyze sales data from different products and provide predicted sales figures. The project uses historical sales data from two products: soap nuts and wool balls.
 
 ## Key Features
 
@@ -14,7 +14,7 @@ The Challenge-1 project is a predictive sales modeling tool built using Python a
 
 To install the project, follow these steps:
 
-1. Clone the repository using `git clone https://github.com/your-username/ps1.git`
+1. Clone the repository using `git clone https://github.com/Optimus-Labs/ps1`
 2. Create a virtual environment using `python -m venv venv`
 3. Activate the virtual environment using `source venv/bin/activate` (on Linux/Mac) or `venv\Scripts\activate` (on Windows)
 4. Install the required dependencies using `pip install -r requirements.txt`

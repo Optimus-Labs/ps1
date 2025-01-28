@@ -416,7 +416,7 @@ def train_and_predict(filepath):
 
 if __name__ == "__main__":
     products = {
-        # "soapnut": "./dataset/soapnutshistory.csv",
+        "soapnut": "./dataset/soapnutshistory.csv",
         "woolball": "./dataset/woolballhistory.csv",
     }
 
